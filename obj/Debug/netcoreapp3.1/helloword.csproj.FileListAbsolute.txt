@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.exe
+C:\Users\user\Desktop\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.deps.json
+C:\Users\user\Desktop\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.runtimeconfig.json
+C:\Users\user\Desktop\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.runtimeconfig.dev.json
+C:\Users\user\Desktop\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.dll
+C:\Users\user\Desktop\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.pdb
+C:\Users\user\Desktop\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.csprojAssemblyReference.cache
+C:\Users\user\Desktop\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.AssemblyInfo.cs
+C:\Users\user\Desktop\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.dll
+C:\Users\user\Desktop\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.pdb
+C:\Users\user\Desktop\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.genruntimeconfig.cache
